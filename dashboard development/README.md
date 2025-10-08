@@ -15,3 +15,6 @@ Accessing the Checklick Themes in Apache Superset (locally)
       - a) Open localhost in a browser
         
   9. Upload themes.zip file into Apache Superset
+      - a) Select "Dashboards" in the top left corner
+      - b) Select "Import dashboards" to the left of "Bulk select" on the top right corner
+      - c) Upload themes.zip file
