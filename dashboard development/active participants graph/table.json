@@ -1,0 +1,773 @@
+{
+  "result": [
+    {
+      "data": [
+        {
+          "Month": "2015-04",
+          "Total Active Participants": 1,
+          "New Participants": 1,
+          "Monthly Growth (%)": "0.00 %"
+        },
+        {
+          "Month": "2015-06",
+          "Total Active Participants": 13,
+          "New Participants": 12,
+          "Monthly Growth (%)": "1200.00 %"
+        },
+        {
+          "Month": "2015-07",
+          "Total Active Participants": 111,
+          "New Participants": 98,
+          "Monthly Growth (%)": "753.85 %"
+        },
+        {
+          "Month": "2015-08",
+          "Total Active Participants": 150,
+          "New Participants": 39,
+          "Monthly Growth (%)": "35.14 %"
+        },
+        {
+          "Month": "2015-09",
+          "Total Active Participants": 227,
+          "New Participants": 77,
+          "Monthly Growth (%)": "51.33 %"
+        },
+        {
+          "Month": "2015-10",
+          "Total Active Participants": 241,
+          "New Participants": 14,
+          "Monthly Growth (%)": "6.17 %"
+        },
+        {
+          "Month": "2015-11",
+          "Total Active Participants": 271,
+          "New Participants": 30,
+          "Monthly Growth (%)": "12.45 %"
+        },
+        {
+          "Month": "2015-12",
+          "Total Active Participants": 351,
+          "New Participants": 80,
+          "Monthly Growth (%)": "29.52 %"
+        },
+        {
+          "Month": "2016-01",
+          "Total Active Participants": 433,
+          "New Participants": 82,
+          "Monthly Growth (%)": "23.36 %"
+        },
+        {
+          "Month": "2016-02",
+          "Total Active Participants": 492,
+          "New Participants": 59,
+          "Monthly Growth (%)": "13.63 %"
+        },
+        {
+          "Month": "2016-03",
+          "Total Active Participants": 534,
+          "New Participants": 42,
+          "Monthly Growth (%)": "8.54 %"
+        },
+        {
+          "Month": "2016-04",
+          "Total Active Participants": 588,
+          "New Participants": 54,
+          "Monthly Growth (%)": "10.11 %"
+        },
+        {
+          "Month": "2016-05",
+          "Total Active Participants": 655,
+          "New Participants": 67,
+          "Monthly Growth (%)": "11.39 %"
+        },
+        {
+          "Month": "2016-06",
+          "Total Active Participants": 1037,
+          "New Participants": 382,
+          "Monthly Growth (%)": "58.32 %"
+        },
+        {
+          "Month": "2016-07",
+          "Total Active Participants": 1581,
+          "New Participants": 544,
+          "Monthly Growth (%)": "52.46 %"
+        },
+        {
+          "Month": "2016-08",
+          "Total Active Participants": 1876,
+          "New Participants": 295,
+          "Monthly Growth (%)": "18.66 %"
+        },
+        {
+          "Month": "2016-09",
+          "Total Active Participants": 5444,
+          "New Participants": 3568,
+          "Monthly Growth (%)": "190.19 %"
+        },
+        {
+          "Month": "2016-10",
+          "Total Active Participants": 6354,
+          "New Participants": 910,
+          "Monthly Growth (%)": "16.72 %"
+        },
+        {
+          "Month": "2016-11",
+          "Total Active Participants": 6787,
+          "New Participants": 433,
+          "Monthly Growth (%)": "6.81 %"
+        },
+        {
+          "Month": "2016-12",
+          "Total Active Participants": 40083,
+          "New Participants": 33296,
+          "Monthly Growth (%)": "490.58 %"
+        },
+        {
+          "Month": "2017-01",
+          "Total Active Participants": 40556,
+          "New Participants": 473,
+          "Monthly Growth (%)": "1.18 %"
+        },
+        {
+          "Month": "2017-02",
+          "Total Active Participants": 41101,
+          "New Participants": 545,
+          "Monthly Growth (%)": "1.34 %"
+        },
+        {
+          "Month": "2017-03",
+          "Total Active Participants": 42131,
+          "New Participants": 1030,
+          "Monthly Growth (%)": "2.51 %"
+        },
+        {
+          "Month": "2017-04",
+          "Total Active Participants": 43162,
+          "New Participants": 1031,
+          "Monthly Growth (%)": "2.45 %"
+        },
+        {
+          "Month": "2017-05",
+          "Total Active Participants": 44692,
+          "New Participants": 1530,
+          "Monthly Growth (%)": "3.54 %"
+        },
+        {
+          "Month": "2017-06",
+          "Total Active Participants": 47257,
+          "New Participants": 2565,
+          "Monthly Growth (%)": "5.74 %"
+        },
+        {
+          "Month": "2017-07",
+          "Total Active Participants": 51155,
+          "New Participants": 3898,
+          "Monthly Growth (%)": "8.25 %"
+        },
+        {
+          "Month": "2017-08",
+          "Total Active Participants": 53692,
+          "New Participants": 2537,
+          "Monthly Growth (%)": "4.96 %"
+        },
+        {
+          "Month": "2017-09",
+          "Total Active Participants": 54584,
+          "New Participants": 892,
+          "Monthly Growth (%)": "1.66 %"
+        },
+        {
+          "Month": "2017-10",
+          "Total Active Participants": 55439,
+          "New Participants": 855,
+          "Monthly Growth (%)": "1.57 %"
+        },
+        {
+          "Month": "2017-11",
+          "Total Active Participants": 56578,
+          "New Participants": 1139,
+          "Monthly Growth (%)": "2.05 %"
+        },
+        {
+          "Month": "2017-12",
+          "Total Active Participants": 56756,
+          "New Participants": 178,
+          "Monthly Growth (%)": "0.31 %"
+        },
+        {
+          "Month": "2018-01",
+          "Total Active Participants": 57153,
+          "New Participants": 397,
+          "Monthly Growth (%)": "0.70 %"
+        },
+        {
+          "Month": "2018-02",
+          "Total Active Participants": 57839,
+          "New Participants": 686,
+          "Monthly Growth (%)": "1.20 %"
+        },
+        {
+          "Month": "2018-03",
+          "Total Active Participants": 58890,
+          "New Participants": 1051,
+          "Monthly Growth (%)": "1.82 %"
+        },
+        {
+          "Month": "2018-04",
+          "Total Active Participants": 60087,
+          "New Participants": 1197,
+          "Monthly Growth (%)": "2.03 %"
+        },
+        {
+          "Month": "2018-05",
+          "Total Active Participants": 61817,
+          "New Participants": 1730,
+          "Monthly Growth (%)": "2.88 %"
+        },
+        {
+          "Month": "2018-06",
+          "Total Active Participants": 64463,
+          "New Participants": 2646,
+          "Monthly Growth (%)": "4.28 %"
+        },
+        {
+          "Month": "2018-07",
+          "Total Active Participants": 68022,
+          "New Participants": 3559,
+          "Monthly Growth (%)": "5.52 %"
+        },
+        {
+          "Month": "2018-08",
+          "Total Active Participants": 70311,
+          "New Participants": 2289,
+          "Monthly Growth (%)": "3.37 %"
+        },
+        {
+          "Month": "2018-09",
+          "Total Active Participants": 71126,
+          "New Participants": 815,
+          "Monthly Growth (%)": "1.16 %"
+        },
+        {
+          "Month": "2018-10",
+          "Total Active Participants": 71602,
+          "New Participants": 476,
+          "Monthly Growth (%)": "0.67 %"
+        },
+        {
+          "Month": "2018-11",
+          "Total Active Participants": 72265,
+          "New Participants": 663,
+          "Monthly Growth (%)": "0.93 %"
+        },
+        {
+          "Month": "2018-12",
+          "Total Active Participants": 72477,
+          "New Participants": 212,
+          "Monthly Growth (%)": "0.29 %"
+        },
+        {
+          "Month": "2019-01",
+          "Total Active Participants": 72822,
+          "New Participants": 345,
+          "Monthly Growth (%)": "0.48 %"
+        },
+        {
+          "Month": "2019-02",
+          "Total Active Participants": 73320,
+          "New Participants": 498,
+          "Monthly Growth (%)": "0.68 %"
+        },
+        {
+          "Month": "2019-03",
+          "Total Active Participants": 74177,
+          "New Participants": 857,
+          "Monthly Growth (%)": "1.17 %"
+        },
+        {
+          "Month": "2019-04",
+          "Total Active Participants": 75090,
+          "New Participants": 913,
+          "Monthly Growth (%)": "1.23 %"
+        },
+        {
+          "Month": "2019-05",
+          "Total Active Participants": 76226,
+          "New Participants": 1136,
+          "Monthly Growth (%)": "1.51 %"
+        },
+        {
+          "Month": "2019-06",
+          "Total Active Participants": 78248,
+          "New Participants": 2022,
+          "Monthly Growth (%)": "2.65 %"
+        },
+        {
+          "Month": "2019-07",
+          "Total Active Participants": 81648,
+          "New Participants": 3400,
+          "Monthly Growth (%)": "4.35 %"
+        },
+        {
+          "Month": "2019-08",
+          "Total Active Participants": 83575,
+          "New Participants": 1927,
+          "Monthly Growth (%)": "2.36 %"
+        },
+        {
+          "Month": "2019-09",
+          "Total Active Participants": 84459,
+          "New Participants": 884,
+          "Monthly Growth (%)": "1.06 %"
+        },
+        {
+          "Month": "2019-10",
+          "Total Active Participants": 84975,
+          "New Participants": 516,
+          "Monthly Growth (%)": "0.61 %"
+        },
+        {
+          "Month": "2019-11",
+          "Total Active Participants": 85447,
+          "New Participants": 472,
+          "Monthly Growth (%)": "0.56 %"
+        },
+        {
+          "Month": "2019-12",
+          "Total Active Participants": 85562,
+          "New Participants": 115,
+          "Monthly Growth (%)": "0.13 %"
+        },
+        {
+          "Month": "2020-01",
+          "Total Active Participants": 85786,
+          "New Participants": 224,
+          "Monthly Growth (%)": "0.26 %"
+        },
+        {
+          "Month": "2020-02",
+          "Total Active Participants": 86212,
+          "New Participants": 426,
+          "Monthly Growth (%)": "0.50 %"
+        },
+        {
+          "Month": "2020-03",
+          "Total Active Participants": 86529,
+          "New Participants": 317,
+          "Monthly Growth (%)": "0.37 %"
+        },
+        {
+          "Month": "2020-04",
+          "Total Active Participants": 86593,
+          "New Participants": 64,
+          "Monthly Growth (%)": "0.07 %"
+        },
+        {
+          "Month": "2020-05",
+          "Total Active Participants": 86888,
+          "New Participants": 295,
+          "Monthly Growth (%)": "0.34 %"
+        },
+        {
+          "Month": "2020-06",
+          "Total Active Participants": 87815,
+          "New Participants": 927,
+          "Monthly Growth (%)": "1.07 %"
+        },
+        {
+          "Month": "2020-07",
+          "Total Active Participants": 89708,
+          "New Participants": 1893,
+          "Monthly Growth (%)": "2.16 %"
+        },
+        {
+          "Month": "2020-08",
+          "Total Active Participants": 91292,
+          "New Participants": 1584,
+          "Monthly Growth (%)": "1.77 %"
+        },
+        {
+          "Month": "2020-09",
+          "Total Active Participants": 91782,
+          "New Participants": 490,
+          "Monthly Growth (%)": "0.54 %"
+        },
+        {
+          "Month": "2020-10",
+          "Total Active Participants": 92113,
+          "New Participants": 331,
+          "Monthly Growth (%)": "0.36 %"
+        },
+        {
+          "Month": "2020-11",
+          "Total Active Participants": 92618,
+          "New Participants": 505,
+          "Monthly Growth (%)": "0.55 %"
+        },
+        {
+          "Month": "2020-12",
+          "Total Active Participants": 92725,
+          "New Participants": 107,
+          "Monthly Growth (%)": "0.12 %"
+        },
+        {
+          "Month": "2021-01",
+          "Total Active Participants": 92934,
+          "New Participants": 209,
+          "Monthly Growth (%)": "0.23 %"
+        },
+        {
+          "Month": "2021-02",
+          "Total Active Participants": 93320,
+          "New Participants": 386,
+          "Monthly Growth (%)": "0.42 %"
+        },
+        {
+          "Month": "2021-03",
+          "Total Active Participants": 94388,
+          "New Participants": 1068,
+          "Monthly Growth (%)": "1.14 %"
+        },
+        {
+          "Month": "2021-04",
+          "Total Active Participants": 95267,
+          "New Participants": 879,
+          "Monthly Growth (%)": "0.93 %"
+        },
+        {
+          "Month": "2021-05",
+          "Total Active Participants": 96757,
+          "New Participants": 1490,
+          "Monthly Growth (%)": "1.56 %"
+        },
+        {
+          "Month": "2021-06",
+          "Total Active Participants": 99134,
+          "New Participants": 2377,
+          "Monthly Growth (%)": "2.46 %"
+        },
+        {
+          "Month": "2021-07",
+          "Total Active Participants": 103020,
+          "New Participants": 3886,
+          "Monthly Growth (%)": "3.92 %"
+        },
+        {
+          "Month": "2021-08",
+          "Total Active Participants": 105370,
+          "New Participants": 2350,
+          "Monthly Growth (%)": "2.28 %"
+        },
+        {
+          "Month": "2021-09",
+          "Total Active Participants": 106071,
+          "New Participants": 701,
+          "Monthly Growth (%)": "0.67 %"
+        },
+        {
+          "Month": "2021-10",
+          "Total Active Participants": 106510,
+          "New Participants": 439,
+          "Monthly Growth (%)": "0.41 %"
+        },
+        {
+          "Month": "2021-11",
+          "Total Active Participants": 107204,
+          "New Participants": 694,
+          "Monthly Growth (%)": "0.65 %"
+        },
+        {
+          "Month": "2021-12",
+          "Total Active Participants": 107362,
+          "New Participants": 158,
+          "Monthly Growth (%)": "0.15 %"
+        },
+        {
+          "Month": "2022-01",
+          "Total Active Participants": 107783,
+          "New Participants": 421,
+          "Monthly Growth (%)": "0.39 %"
+        },
+        {
+          "Month": "2022-02",
+          "Total Active Participants": 108702,
+          "New Participants": 919,
+          "Monthly Growth (%)": "0.85 %"
+        },
+        {
+          "Month": "2022-03",
+          "Total Active Participants": 109979,
+          "New Participants": 1277,
+          "Monthly Growth (%)": "1.17 %"
+        },
+        {
+          "Month": "2022-04",
+          "Total Active Participants": 111174,
+          "New Participants": 1195,
+          "Monthly Growth (%)": "1.09 %"
+        },
+        {
+          "Month": "2022-05",
+          "Total Active Participants": 112694,
+          "New Participants": 1520,
+          "Monthly Growth (%)": "1.37 %"
+        },
+        {
+          "Month": "2022-06",
+          "Total Active Participants": 114596,
+          "New Participants": 1902,
+          "Monthly Growth (%)": "1.69 %"
+        },
+        {
+          "Month": "2022-07",
+          "Total Active Participants": 117728,
+          "New Participants": 3132,
+          "Monthly Growth (%)": "2.73 %"
+        },
+        {
+          "Month": "2022-08",
+          "Total Active Participants": 120011,
+          "New Participants": 2283,
+          "Monthly Growth (%)": "1.94 %"
+        },
+        {
+          "Month": "2022-09",
+          "Total Active Participants": 121006,
+          "New Participants": 995,
+          "Monthly Growth (%)": "0.83 %"
+        },
+        {
+          "Month": "2022-10",
+          "Total Active Participants": 121512,
+          "New Participants": 506,
+          "Monthly Growth (%)": "0.42 %"
+        },
+        {
+          "Month": "2022-11",
+          "Total Active Participants": 122109,
+          "New Participants": 597,
+          "Monthly Growth (%)": "0.49 %"
+        },
+        {
+          "Month": "2022-12",
+          "Total Active Participants": 122303,
+          "New Participants": 194,
+          "Monthly Growth (%)": "0.16 %"
+        },
+        {
+          "Month": "2023-01",
+          "Total Active Participants": 122904,
+          "New Participants": 601,
+          "Monthly Growth (%)": "0.49 %"
+        },
+        {
+          "Month": "2023-02",
+          "Total Active Participants": 123805,
+          "New Participants": 901,
+          "Monthly Growth (%)": "0.73 %"
+        },
+        {
+          "Month": "2023-03",
+          "Total Active Participants": 125266,
+          "New Participants": 1461,
+          "Monthly Growth (%)": "1.18 %"
+        },
+        {
+          "Month": "2023-04",
+          "Total Active Participants": 126523,
+          "New Participants": 1257,
+          "Monthly Growth (%)": "1.00 %"
+        },
+        {
+          "Month": "2023-05",
+          "Total Active Participants": 128135,
+          "New Participants": 1612,
+          "Monthly Growth (%)": "1.27 %"
+        },
+        {
+          "Month": "2023-06",
+          "Total Active Participants": 130691,
+          "New Participants": 2556,
+          "Monthly Growth (%)": "1.99 %"
+        },
+        {
+          "Month": "2023-07",
+          "Total Active Participants": 134184,
+          "New Participants": 3493,
+          "Monthly Growth (%)": "2.67 %"
+        },
+        {
+          "Month": "2023-08",
+          "Total Active Participants": 136466,
+          "New Participants": 2282,
+          "Monthly Growth (%)": "1.70 %"
+        },
+        {
+          "Month": "2023-09",
+          "Total Active Participants": 137230,
+          "New Participants": 764,
+          "Monthly Growth (%)": "0.56 %"
+        },
+        {
+          "Month": "2023-10",
+          "Total Active Participants": 137835,
+          "New Participants": 605,
+          "Monthly Growth (%)": "0.44 %"
+        },
+        {
+          "Month": "2023-11",
+          "Total Active Participants": 138112,
+          "New Participants": 277,
+          "Monthly Growth (%)": "0.20 %"
+        },
+        {
+          "Month": "2023-12",
+          "Total Active Participants": 138244,
+          "New Participants": 132,
+          "Monthly Growth (%)": "0.10 %"
+        },
+        {
+          "Month": "2024-01",
+          "Total Active Participants": 138999,
+          "New Participants": 755,
+          "Monthly Growth (%)": "0.55 %"
+        },
+        {
+          "Month": "2024-02",
+          "Total Active Participants": 139773,
+          "New Participants": 774,
+          "Monthly Growth (%)": "0.56 %"
+        },
+        {
+          "Month": "2024-03",
+          "Total Active Participants": 140850,
+          "New Participants": 1077,
+          "Monthly Growth (%)": "0.77 %"
+        },
+        {
+          "Month": "2024-04",
+          "Total Active Participants": 142152,
+          "New Participants": 1302,
+          "Monthly Growth (%)": "0.92 %"
+        },
+        {
+          "Month": "2024-05",
+          "Total Active Participants": 143698,
+          "New Participants": 1546,
+          "Monthly Growth (%)": "1.09 %"
+        },
+        {
+          "Month": "2024-06",
+          "Total Active Participants": 146119,
+          "New Participants": 2421,
+          "Monthly Growth (%)": "1.68 %"
+        },
+        {
+          "Month": "2024-07",
+          "Total Active Participants": 149537,
+          "New Participants": 3418,
+          "Monthly Growth (%)": "2.34 %"
+        },
+        {
+          "Month": "2024-08",
+          "Total Active Participants": 151654,
+          "New Participants": 2117,
+          "Monthly Growth (%)": "1.42 %"
+        },
+        {
+          "Month": "2024-09",
+          "Total Active Participants": 152345,
+          "New Participants": 691,
+          "Monthly Growth (%)": "0.46 %"
+        },
+        {
+          "Month": "2024-10",
+          "Total Active Participants": 152844,
+          "New Participants": 499,
+          "Monthly Growth (%)": "0.33 %"
+        },
+        {
+          "Month": "2024-11",
+          "Total Active Participants": 153350,
+          "New Participants": 506,
+          "Monthly Growth (%)": "0.33 %"
+        },
+        {
+          "Month": "2024-12",
+          "Total Active Participants": 153445,
+          "New Participants": 95,
+          "Monthly Growth (%)": "0.06 %"
+        },
+        {
+          "Month": "2025-01",
+          "Total Active Participants": 154078,
+          "New Participants": 633,
+          "Monthly Growth (%)": "0.41 %"
+        },
+        {
+          "Month": "2025-02",
+          "Total Active Participants": 154894,
+          "New Participants": 816,
+          "Monthly Growth (%)": "0.53 %"
+        },
+        {
+          "Month": "2025-03",
+          "Total Active Participants": 156081,
+          "New Participants": 1187,
+          "Monthly Growth (%)": "0.77 %"
+        },
+        {
+          "Month": "2025-04",
+          "Total Active Participants": 157228,
+          "New Participants": 1147,
+          "Monthly Growth (%)": "0.73 %"
+        },
+        {
+          "Month": "2025-05",
+          "Total Active Participants": 158868,
+          "New Participants": 1640,
+          "Monthly Growth (%)": "1.04 %"
+        },
+        {
+          "Month": "2025-06",
+          "Total Active Participants": 161306,
+          "New Participants": 2438,
+          "Monthly Growth (%)": "1.53 %"
+        },
+        {
+          "Month": "2025-07",
+          "Total Active Participants": 165068,
+          "New Participants": 3762,
+          "Monthly Growth (%)": "2.33 %"
+        },
+        {
+          "Month": "2025-08",
+          "Total Active Participants": 165303,
+          "New Participants": 235,
+          "Monthly Growth (%)": "0.14 %"
+        },
+        {
+          "Month": "2025-09",
+          "Total Active Participants": 165304,
+          "New Participants": 1,
+          "Monthly Growth (%)": "0.00 %"
+        },
+        {
+          "Month": "2025-10",
+          "Total Active Participants": 165308,
+          "New Participants": 4,
+          "Monthly Growth (%)": "0.00 %"
+        }
+      ],
+      "colnames": [
+        "Month",
+        "Total Active Participants",
+        "New Participants",
+        "Monthly Growth (%)"
+      ],
+      "coltypes": [1, 0, 0, 1],
+      "rowcount": 126,
+      "sql_rowcount": 126
+    }
+  ]
+}
