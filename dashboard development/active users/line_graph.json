@@ -1,0 +1,519 @@
+{
+  "result": [
+    {
+      "data": [
+        {
+          "month": 1427846400000,
+          "Total Active Users": 1
+        },
+        {
+          "month": 1433116800000,
+          "Total Active Users": 13
+        },
+        {
+          "month": 1435708800000,
+          "Total Active Users": 111
+        },
+        {
+          "month": 1438387200000,
+          "Total Active Users": 150
+        },
+        {
+          "month": 1441065600000,
+          "Total Active Users": 227
+        },
+        {
+          "month": 1443657600000,
+          "Total Active Users": 241
+        },
+        {
+          "month": 1446336000000,
+          "Total Active Users": 271
+        },
+        {
+          "month": 1448928000000,
+          "Total Active Users": 351
+        },
+        {
+          "month": 1451606400000,
+          "Total Active Users": 433
+        },
+        {
+          "month": 1454284800000,
+          "Total Active Users": 492
+        },
+        {
+          "month": 1456790400000,
+          "Total Active Users": 534
+        },
+        {
+          "month": 1459468800000,
+          "Total Active Users": 588
+        },
+        {
+          "month": 1462060800000,
+          "Total Active Users": 655
+        },
+        {
+          "month": 1464739200000,
+          "Total Active Users": 1037
+        },
+        {
+          "month": 1467331200000,
+          "Total Active Users": 1581
+        },
+        {
+          "month": 1470009600000,
+          "Total Active Users": 1876
+        },
+        {
+          "month": 1472688000000,
+          "Total Active Users": 5444
+        },
+        {
+          "month": 1475280000000,
+          "Total Active Users": 6354
+        },
+        {
+          "month": 1477958400000,
+          "Total Active Users": 6787
+        },
+        {
+          "month": 1480550400000,
+          "Total Active Users": 40083
+        },
+        {
+          "month": 1483228800000,
+          "Total Active Users": 40556
+        },
+        {
+          "month": 1485907200000,
+          "Total Active Users": 41101
+        },
+        {
+          "month": 1488326400000,
+          "Total Active Users": 42131
+        },
+        {
+          "month": 1491004800000,
+          "Total Active Users": 43162
+        },
+        {
+          "month": 1493596800000,
+          "Total Active Users": 44692
+        },
+        {
+          "month": 1496275200000,
+          "Total Active Users": 47257
+        },
+        {
+          "month": 1498867200000,
+          "Total Active Users": 51155
+        },
+        {
+          "month": 1501545600000,
+          "Total Active Users": 53692
+        },
+        {
+          "month": 1504224000000,
+          "Total Active Users": 54584
+        },
+        {
+          "month": 1506816000000,
+          "Total Active Users": 55439
+        },
+        {
+          "month": 1509494400000,
+          "Total Active Users": 56578
+        },
+        {
+          "month": 1512086400000,
+          "Total Active Users": 56756
+        },
+        {
+          "month": 1514764800000,
+          "Total Active Users": 57153
+        },
+        {
+          "month": 1517443200000,
+          "Total Active Users": 57839
+        },
+        {
+          "month": 1519862400000,
+          "Total Active Users": 58890
+        },
+        {
+          "month": 1522540800000,
+          "Total Active Users": 60087
+        },
+        {
+          "month": 1525132800000,
+          "Total Active Users": 61817
+        },
+        {
+          "month": 1527811200000,
+          "Total Active Users": 64463
+        },
+        {
+          "month": 1530403200000,
+          "Total Active Users": 68022
+        },
+        {
+          "month": 1533081600000,
+          "Total Active Users": 70311
+        },
+        {
+          "month": 1535760000000,
+          "Total Active Users": 71126
+        },
+        {
+          "month": 1538352000000,
+          "Total Active Users": 71602
+        },
+        {
+          "month": 1541030400000,
+          "Total Active Users": 72265
+        },
+        {
+          "month": 1543622400000,
+          "Total Active Users": 72477
+        },
+        {
+          "month": 1546300800000,
+          "Total Active Users": 72822
+        },
+        {
+          "month": 1548979200000,
+          "Total Active Users": 73320
+        },
+        {
+          "month": 1551398400000,
+          "Total Active Users": 74177
+        },
+        {
+          "month": 1554076800000,
+          "Total Active Users": 75090
+        },
+        {
+          "month": 1556668800000,
+          "Total Active Users": 76226
+        },
+        {
+          "month": 1559347200000,
+          "Total Active Users": 78248
+        },
+        {
+          "month": 1561939200000,
+          "Total Active Users": 81648
+        },
+        {
+          "month": 1564617600000,
+          "Total Active Users": 83575
+        },
+        {
+          "month": 1567296000000,
+          "Total Active Users": 84459
+        },
+        {
+          "month": 1569888000000,
+          "Total Active Users": 84975
+        },
+        {
+          "month": 1572566400000,
+          "Total Active Users": 85447
+        },
+        {
+          "month": 1575158400000,
+          "Total Active Users": 85562
+        },
+        {
+          "month": 1577836800000,
+          "Total Active Users": 85786
+        },
+        {
+          "month": 1580515200000,
+          "Total Active Users": 86212
+        },
+        {
+          "month": 1583020800000,
+          "Total Active Users": 86529
+        },
+        {
+          "month": 1585699200000,
+          "Total Active Users": 86593
+        },
+        {
+          "month": 1588291200000,
+          "Total Active Users": 86888
+        },
+        {
+          "month": 1590969600000,
+          "Total Active Users": 87815
+        },
+        {
+          "month": 1593561600000,
+          "Total Active Users": 89708
+        },
+        {
+          "month": 1596240000000,
+          "Total Active Users": 91292
+        },
+        {
+          "month": 1598918400000,
+          "Total Active Users": 91782
+        },
+        {
+          "month": 1601510400000,
+          "Total Active Users": 92113
+        },
+        {
+          "month": 1604188800000,
+          "Total Active Users": 92618
+        },
+        {
+          "month": 1606780800000,
+          "Total Active Users": 92725
+        },
+        {
+          "month": 1609459200000,
+          "Total Active Users": 92934
+        },
+        {
+          "month": 1612137600000,
+          "Total Active Users": 93320
+        },
+        {
+          "month": 1614556800000,
+          "Total Active Users": 94388
+        },
+        {
+          "month": 1617235200000,
+          "Total Active Users": 95267
+        },
+        {
+          "month": 1619827200000,
+          "Total Active Users": 96757
+        },
+        {
+          "month": 1622505600000,
+          "Total Active Users": 99134
+        },
+        {
+          "month": 1625097600000,
+          "Total Active Users": 103020
+        },
+        {
+          "month": 1627776000000,
+          "Total Active Users": 105370
+        },
+        {
+          "month": 1630454400000,
+          "Total Active Users": 106071
+        },
+        {
+          "month": 1633046400000,
+          "Total Active Users": 106510
+        },
+        {
+          "month": 1635724800000,
+          "Total Active Users": 107204
+        },
+        {
+          "month": 1638316800000,
+          "Total Active Users": 107362
+        },
+        {
+          "month": 1640995200000,
+          "Total Active Users": 107783
+        },
+        {
+          "month": 1643673600000,
+          "Total Active Users": 108702
+        },
+        {
+          "month": 1646092800000,
+          "Total Active Users": 109979
+        },
+        {
+          "month": 1648771200000,
+          "Total Active Users": 111174
+        },
+        {
+          "month": 1651363200000,
+          "Total Active Users": 112694
+        },
+        {
+          "month": 1654041600000,
+          "Total Active Users": 114596
+        },
+        {
+          "month": 1656633600000,
+          "Total Active Users": 117728
+        },
+        {
+          "month": 1659312000000,
+          "Total Active Users": 120011
+        },
+        {
+          "month": 1661990400000,
+          "Total Active Users": 121006
+        },
+        {
+          "month": 1664582400000,
+          "Total Active Users": 121512
+        },
+        {
+          "month": 1667260800000,
+          "Total Active Users": 122109
+        },
+        {
+          "month": 1669852800000,
+          "Total Active Users": 122303
+        },
+        {
+          "month": 1672531200000,
+          "Total Active Users": 122904
+        },
+        {
+          "month": 1675209600000,
+          "Total Active Users": 123805
+        },
+        {
+          "month": 1677628800000,
+          "Total Active Users": 125266
+        },
+        {
+          "month": 1680307200000,
+          "Total Active Users": 126523
+        },
+        {
+          "month": 1682899200000,
+          "Total Active Users": 128135
+        },
+        {
+          "month": 1685577600000,
+          "Total Active Users": 130691
+        },
+        {
+          "month": 1688169600000,
+          "Total Active Users": 134184
+        },
+        {
+          "month": 1690848000000,
+          "Total Active Users": 136466
+        },
+        {
+          "month": 1693526400000,
+          "Total Active Users": 137230
+        },
+        {
+          "month": 1696118400000,
+          "Total Active Users": 137835
+        },
+        {
+          "month": 1698796800000,
+          "Total Active Users": 138112
+        },
+        {
+          "month": 1701388800000,
+          "Total Active Users": 138244
+        },
+        {
+          "month": 1704067200000,
+          "Total Active Users": 138999
+        },
+        {
+          "month": 1706745600000,
+          "Total Active Users": 139773
+        },
+        {
+          "month": 1709251200000,
+          "Total Active Users": 140850
+        },
+        {
+          "month": 1711929600000,
+          "Total Active Users": 142152
+        },
+        {
+          "month": 1714521600000,
+          "Total Active Users": 143698
+        },
+        {
+          "month": 1717200000000,
+          "Total Active Users": 146119
+        },
+        {
+          "month": 1719792000000,
+          "Total Active Users": 149537
+        },
+        {
+          "month": 1722470400000,
+          "Total Active Users": 151654
+        },
+        {
+          "month": 1725148800000,
+          "Total Active Users": 152345
+        },
+        {
+          "month": 1727740800000,
+          "Total Active Users": 152844
+        },
+        {
+          "month": 1730419200000,
+          "Total Active Users": 153350
+        },
+        {
+          "month": 1733011200000,
+          "Total Active Users": 153445
+        },
+        {
+          "month": 1735689600000,
+          "Total Active Users": 154078
+        },
+        {
+          "month": 1738368000000,
+          "Total Active Users": 154894
+        },
+        {
+          "month": 1740787200000,
+          "Total Active Users": 156081
+        },
+        {
+          "month": 1743465600000,
+          "Total Active Users": 157228
+        },
+        {
+          "month": 1746057600000,
+          "Total Active Users": 158868
+        },
+        {
+          "month": 1748736000000,
+          "Total Active Users": 161306
+        },
+        {
+          "month": 1751328000000,
+          "Total Active Users": 165068
+        },
+        {
+          "month": 1754006400000,
+          "Total Active Users": 165303
+        },
+        {
+          "month": 1756684800000,
+          "Total Active Users": 165304
+        },
+        {
+          "month": 1759276800000,
+          "Total Active Users": 165321
+        }
+      ],
+      "colnames": [
+        "month",
+        "Total Active Users"
+      ],
+      "coltypes": [2, 0],
+      "rowcount": 126,
+      "sql_rowcount": 126
+    }
+  ]
+}
